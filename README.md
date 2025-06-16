@@ -77,9 +77,9 @@
 
 ### 📫 Connect with Me
 
-- 🌐 Portfolio: [yourportfolio.com](https://ankit-bhagat-portfolio-0583.web.app)  
-- 💼 LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/ankit-bhagat-22148b256/)  
-- 🐦 Twitter: [@yourhandle](https://twitter.com/AnkitBhagat0583)
+- 🌐 Portfolio: [My Portfolio](https://ankit-bhagat-portfolio-0583.web.app)  
+- 💼 LinkedIn: [LinkedIn](https://linkedin.com/in/ankit-bhagat-22148b256/)  
+- 🐦 Twitter: [X](https://twitter.com/AnkitBhagat0583)
 
 ---
 
