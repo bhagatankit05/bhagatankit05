@@ -69,17 +69,17 @@
 
 ### 🌟 Featured Projects
 
-- 📊 **[Internship Admin Panel](https://github.com/bhagatankit05/InternShip_Project)** – React + Chart.js dashboard with analysis features.
-- 📁 **[Employee Management System](https://github.com/bhagatankit05/Employee_Management_System)** – Java-based CRUD app for record management.
+- 📊 **[Excel Analysis Project](https://github.com/bhagatankit05/InternShip_Project)** 
+- 📁 **[Employee Management System](https://github.com/bhagatankit05/Employee_Management_System)**
 - ✅ **To-Do List** – Vanilla JavaScript task manager with local storage.
 
 ---
 
 ### 📫 Connect with Me
 
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)  
-- 💼 LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)  
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 🌐 Portfolio: [yourportfolio.com](https://ankit-bhagat-portfolio-0583.web.app)  
+- 💼 LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/ankit-bhagat-22148b256/)  
+- 🐦 Twitter: [@yourhandle](https://twitter.com/AnkitBhagat0583)
 
 ---
 
