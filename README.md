@@ -5,10 +5,10 @@
 
 ### 🧠 About Me
 
-🎓 I’m currently pursuing **B.Tech** in Computer Science.  
+🎓 I’m currently pursuing **B.Tech** in Electronics & Telecommunication & minor in Computer Science  
 🌱 I’m exploring full-stack development, data visualization, and cloud tools.  
 ⚡ Fun fact: I debug for fun and design for joy!  
-📫 How to reach me: [LinkedIn](https://linkedin.com/in/your-link) | [Twitter](https://twitter.com/your-handle)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ankit-bhagat-22148b256/) | [Twitter](https://twitter.com/AnkitBhagat0583)
 
 ---
 
