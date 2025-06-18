@@ -40,7 +40,6 @@
 - **Employee Management System** – Built a MERN-stack CRUD web app with role-based authentication.  
 - **To‑Do List Application** – Created a responsive task manager with Vanilla JS and local storage.
 
-📌 *Pin these top projects on your GitHub profile for quick access!*
 
 ---
 
