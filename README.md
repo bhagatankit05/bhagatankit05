@@ -1,4 +1,4 @@
-$$\color{#007ACC}{👋\ Hello,\ I’m\ Ankit\ Bhagat}$$
+<h1 align="center" style="color: #007ACC;">👋 Hello, I'm Ankit Bhagat</h1>
 <h3 align="center"><strong>MERN Stack Developer</strong> | B.Tech in Electronics & Telecommunication <small>(Minor: Computer Science)</small></h3>
 
 ---
@@ -7,7 +7,7 @@ $$\color{#007ACC}{👋\ Hello,\ I’m\ Ankit\ Bhagat}$$
 - 🎓 **Education**: Bachelor of Technology in Electronics & Telecommunication (Minor in Computer Science)  
 - 🌱 **Expertise**: Full-stack MERN development, data visualization, and cloud integrations  
 - ⚡ **Personal Motto**: “I debug for fun and design for joy.”  
-- 📫 **Contact**: [LinkedIn](https://www.linkedin.com/in/ankit-bhagat-22148b256/) • [Twitter (X)](https://twitter.com/AnkitBhagat0583)
+- 📫 **Contact**: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-bhagat-22148b256/) [![Twitter (X)](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/AnkitBhagat0583)
 
 ---
 
@@ -62,11 +62,11 @@ $$\color{#007ACC}{👋\ Hello,\ I’m\ Ankit\ Bhagat}$$
 
 ### 💼 Projects
 
-- **Excel Analysis Project** – Developed a data insights and visualization pipeline.  
-- **Employee Management System** – Built a full-stack CRUD app using Node.js and MongoDB.  
-- **To-Do List Application** – Created a task manager with Vanilla JavaScript and local storage.
+- **Excel Analysis Project**: Developed a data insights and visualization pipeline.  
+- **Employee Management System**: Built a full-stack CRUD application using Node.js and MongoDB.  
+- **To-Do List Application**: Created a task manager with Vanilla JavaScript and local storage.
 
-Explore these on GitHub: [bhagatankit05](https://github.com/bhagatankit05)
+Explore these projects on GitHub: [bhagatankit05](https://github.com/bhagatankit05)
 
 ---
 
@@ -87,4 +87,4 @@ Explore these on GitHub: [bhagatankit05](https://github.com/bhagatankit05)
 
 ---
 
-*This elegant README uses subtle color (#007ACC) in the greeting, offering a refined, corporate-tech aesthetic without overwhelming the layout.* :contentReference[oaicite:1]{index=1}
+*This README is designed with a professional aesthetic, utilizing icons and technical colors to enhance visual appeal while maintaining clarity and structure. For further enhancement, consider adding animations or interactive elements where applicable.*
