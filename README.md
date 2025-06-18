@@ -7,7 +7,7 @@
 - 🎓 **Education**: Bachelor of Technology in Electronics & Telecommunication (Minor in Computer Science)  
 - 🌱 **Expertise**: Full-stack MERN development, data visualization, and cloud integrations  
 - ⚡ **Personal Motto**: “I debug for fun and design for joy.”  
-- 📫 **Contact Information**: [LinkedIn](https://www.linkedin.com/in/ankit-bhagat-22148b256/) • [Twitter (X)](https://twitter.com/AnkitBhagat0583)
+- 📫 **Contact**: [LinkedIn](https://www.linkedin.com/in/ankit-bhagat-22148b256/) • [Twitter (X)](https://twitter.com/AnkitBhagat0583)
 
 ---
 
@@ -38,7 +38,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![MS SQL](https://img.shields.io/badge/-MS_SQL-00758F?logo=microsoft-sql-server&logoColor=white)
 
-#### Tools and Platforms
+#### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
@@ -86,4 +86,4 @@ Explore my projects on GitHub: [bhagatankit05](https://github.com/bhagatankit05)
 
 ---
 
-*This README is structured for clarity and professionalism, featuring organized sections, concise descriptions, and a focus on relevant skills and projects. For further enhancement, consider adding a Table of Contents, demo screenshots, installation instructions, and contribution guidelines as your portfolio expands.*
+*This README follows badge best practices—consistent style, grouped by relevance, and placed prominently for clarity and professionalism.* :contentReference[oaicite:1]{index=1}
