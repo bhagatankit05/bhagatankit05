@@ -5,7 +5,7 @@
 
 <!-- ✅ Dynamic Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full‑Stack+MERN+Developer;DSA+Enthusiast;Let%E2%80%99s+Collaborate+🚀&center=true&width=600&size=24&color=007ACC" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&size=24&color=007ACC&lines=Full‑Stack+MERN+Developer;DSA+Enthusiast;Let%E2%80%99s+Collaborate+🚀" alt="Typing SVG"/>
 </p>
 
 <!-- 🎥 Optional Demo GIF (place under /assets/demo.gif) -->
