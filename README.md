@@ -41,7 +41,7 @@
 
 ---
 
-### 📈 GitHub Insights  
+### 📊 GitHub Insights  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bhagatankit05&show_icons=true&theme=tokyonight&count_private=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagatankit05&layout=compact&theme=tokyonight" height="150"/>
@@ -53,7 +53,7 @@
 
 ---
 
-### 📫 Connect & Collaborate
+### 📢 Connect & Collaborate
 - **Portfolio**: [ankit-bhagat-portfolio](https://ankit-bhagat-portfolio-0583.web.app)  
 - **LinkedIn**: [linkedin.com/in/ankit-bhagat-22148b256](https://linkedin.com/in/ankit-bhagat-22148b256/)  
 - **Twitter (X)**: [@AnkitBhagat0583](https://twitter.com/AnkitBhagat0583)
