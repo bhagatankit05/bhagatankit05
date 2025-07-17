@@ -39,13 +39,14 @@
 - **Employee Management System** – Built a MERN-stack CRUD web app with role-based authentication.  
 - **To‑Do List Application** – Created a responsive task manager with Vanilla JS and local storage.
 
-
 ---
 
 ### 📈 GitHub Insights  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhagatankit05&show_icons=true&theme=tokyonight&count_private=true" height="150"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=bhagatankit05&show_icons=true&theme=tokyonight&count_private=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagatankit05&layout=compact&theme=tokyonight" height="150"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhagatankit05&theme=tokyonight" height="150"/>
 </p>
 
 ---
@@ -56,5 +57,3 @@
 - **Twitter (X)**: [@AnkitBhagat0583](https://twitter.com/AnkitBhagat0583)
 
 🎯 *Let’s partner on innovative projects or tackle challenging problems together.*
-
---- 
