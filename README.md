@@ -49,6 +49,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhagatankit05&theme=tokyonight" height="150"/>
   <br/>
   <img src="https://github-contribution-stats.vercel.app/api/?username=bhagatankit05" alt="GitHub Contribution Stats" height="160" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bhagatankit05&theme=github-dark-blue" alt="GitHub Streak" height="170"/>
 </p>
 
 ---
