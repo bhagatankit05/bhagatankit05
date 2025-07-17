@@ -36,8 +36,8 @@
 
 ### 💼 Featured Projects
 - **Excel Analysis Project** – Developed workflows for data insights and visualizations.  
-- **Employee Management System** – Built a MERN-stack CRUD web app with role-based authentication.  
-- **To‑Do List Application** – Created a responsive task manager with Vanilla JS and local storage.
+- **Blogging Platform** – Designed and developed a feature-rich blog web app with secure user authentication, markdown editor, and real-time comments.  
+- **Learning Management System (GyaanSetu)** – Implemented full-stack LMS platform with course enrollment, progress tracking, and admin dashboard.
 
 ---
 
