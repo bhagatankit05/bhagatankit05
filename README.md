@@ -47,8 +47,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagatankit05&layout=compact&theme=tokyonight" height="150"/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhagatankit05&theme=tokyonight" height="150"/>
-  <br/><br/>
-  <img src="https://github-contribution-stats.vercel.app/api/?username=bhagatankit05" alt="GitHub Contribution Stats" />
 </p>
 
 ---
