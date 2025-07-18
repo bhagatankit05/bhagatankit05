@@ -37,7 +37,7 @@
 ### 💼 Featured Projects
 - **Excel Analysis Project** – Developed workflows for data insights and visualizations.  
 - **Blogging Platform** – Designed and developed a feature-rich blog web app with secure user authentication, markdown editor, and real-time comments.  
-- **Learning Management System (GyaanSetu)** – Implemented full-stack LMS platform with course enrollment, progress tracking, and admin dashboard.
+- **Learning Management System (GyaanSetu)** – Implemented full-stack LMS platform with course enrollment, progress tracking.
 
 ---
 
