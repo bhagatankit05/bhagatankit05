@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#007ACC;">👋 Hello, I'm Ankit Bhagat</h1>
-<h3 align="center"><strong>MERN Stack Developer</strong> | B.Tech in Electronics & Telecommunication (Minor in Computer Science)</h3>
+<h3 align="center"><strong>MERN Stack Developer</strong> </h3>
 
 ---
 
