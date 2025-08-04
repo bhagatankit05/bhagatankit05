@@ -4,7 +4,6 @@
 ---
 
 ### 🧠 Professional Summary
-- 🎓 **Education**: B.Tech in Electronics & Telecommunication (Minor in Computer Science)  
 - 🌱 **Expertise**: Full‑stack MERN development, data visualization, cloud integrations, Data Structures & Algorithms (DSA)  
 - 📫 **Contact**:  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/ankit-bhagat-22148b256/)  
