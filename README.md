@@ -4,7 +4,7 @@
 ---
 
 ### 🧠 Professional Summary
-- 🌱 **Expertise**: Full‑stack MERN development, data visualization, cloud integrations, Data Structures & Algorithms (DSA)  
+- 🌱 **Expertise**: Full-stack MERN development, data visualization, cloud integrations, Data Structures & Algorithms (DSA)  
 - 📫 **Contact**:  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/ankit-bhagat-22148b256/)  
   [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter&style=flat-square)](https://twitter.com/AnkitBhagat0583)
@@ -29,7 +29,7 @@
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)] [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)] [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)] [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)] [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=flat-square)] [![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=flat-square)] [![Cloudinary](https://img.shields.io/badge/Cloudinary-3A68C9?logo=cloudinary&logoColor=white&style=flat-square)]
 
 **Additional Technologies:**  
-[![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=flat-square)] [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white&style=flat-square)] [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat-square)] [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)] [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square)] [![Seaborn](https://img.shields.io/badge/Seaborn-4C77A8?logo=seaborn&logoColor=white&style=flat-square)] [![Scikit‑learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square)]
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=flat-square)] [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white&style=flat-square)] [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat-square)] [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)] [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square)] [![Seaborn](https://img.shields.io/badge/Seaborn-4C77A8?logo=seaborn&logoColor=white&style=flat-square)] [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square)]
 
 ---
 
@@ -45,7 +45,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=bhagatankit05&show_icons=true&theme=tokyonight&count_private=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagatankit05&layout=compact&theme=tokyonight" height="150"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhagatankit05&theme=tokyonight" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=bhagatankit05&theme=tokyonight" height="150"/>
 </p>
 
 ---
