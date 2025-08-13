@@ -37,6 +37,7 @@
 - **Excel Analysis Platform** – Developed workflows for data insights and visualizations.  
 - **Blogging Platform** – Designed and developed a feature-rich blog web app with secure user authentication, markdown editor, and real-time comments.  
 - **Learning Management System (GyaanSetu)** – Implemented full-stack LMS platform with course enrollment, progress tracking.
+- **OneClickAI** - Implemented this Project Using PERN stack where users generate images, remove objects, analyze resumes, and create articles — all in one platform.
 
 ---
 
