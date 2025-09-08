@@ -5,7 +5,7 @@
 <h3 align="center">
   <strong>
     Fullstack Developer (MERN) 
-    <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-web-developer-coding-and-development-flat-flat-juicy-fish.png" width="35"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5072/5072860.png" width="35"/>
   </strong>
 </h3>
 
