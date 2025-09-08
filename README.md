@@ -59,5 +59,5 @@
 
 🎯 *Let’s partner on innovative projects or tackle challenging problems together.*  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);AI+%7C+Cloud+%7C+Data+Visualization;Always+learning+new+technologies..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;AI+%7C+Cloud+%7C+Data+Visualization;Always+learning+new+technologies..." />
 </p>
