@@ -1,11 +1,10 @@
 <h1 align="center" style="color:#007ACC;">
   👋 Hello, I'm <span style="color:#FF5722;">Ankit Bhagat</span>  
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-web-developer-coding-and-development-flat-flat-juicy-fish.png" width="40"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
 </h1>
 <h3 align="center">
   <strong>
-    Fullstack Developer (MERN)  
-    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40"/>
+    MERN Stack Developer 
   </strong>
 </h3>
 
@@ -59,5 +58,5 @@
 
 🎯 *Let’s partner on innovative projects or tackle challenging problems together.*  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);AI+%7C+Cloud+%7C+Data+Visualization;Always+learning+new+technologies..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;AI+%7C+Cloud+%7C+Data+Visualization;Always+learning+new+technologies..." />
 </p>
