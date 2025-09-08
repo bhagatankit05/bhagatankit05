@@ -4,7 +4,8 @@
 </h1>
 <h3 align="center">
   <strong>
-    MERN Stack Developer 
+    Fullstack Developer (MERN) 
+    <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-web-developer-coding-and-development-flat-flat-juicy-fish.png" width="35"/>
   </strong>
 </h3>
 
@@ -58,5 +59,5 @@
 
 🎯 *Let’s partner on innovative projects or tackle challenging problems together.*  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;AI+%7C+Cloud+%7C+Data+Visualization;Always+learning+new+technologies..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);AI+%7C+Cloud+%7C+Data+Visualization;Always+learning+new+technologies..." />
 </p>
