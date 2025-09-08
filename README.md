@@ -1,6 +1,6 @@
 <h1 align="center" style="color:#007ACC;">
   👋 Hello, I'm <span style="color:#FF5722;">Ankit Bhagat</span>  
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-web-developer-coding-and-development-flat-flat-juicy-fish.png" width="40"/>
 </h1>
 <h3 align="center">
   <strong>
