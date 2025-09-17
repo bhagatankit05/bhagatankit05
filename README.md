@@ -12,7 +12,7 @@
 
 ---
 
-### 🧠 Professional Summary  
+### 🧠 Professional Summary
 - 🌱 **Expertise**: Full-stack MERN development, data visualization, cloud integrations, Data Structures & Algorithms (DSA)  
 - 📫 **Contact**:  
   <a href="https://www.linkedin.com/in/ankit-bhagat-22148b256/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25"/> LinkedIn</a>  
@@ -20,7 +20,7 @@
 
 ---
 
-### 🛠️ Technical Skills  
+### 🛠️ Technical Skills
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
@@ -39,7 +39,7 @@
 
 ---
 
-### 💼 Featured Projects  
+### 💼 Featured Projects
 🚀 **Excel Analysis Platform** – Data-driven workflows for insights & visualizations.  
 📝 **Blogging Platform** – Secure blog app with markdown editor & real-time comments.  
 🎓 **Learning Management System (GyaanSetu)** – Full-stack LMS with progress tracking.  
@@ -47,17 +47,16 @@
 
 ---
 
-### 📊 GitHub Insights  
+### 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhagatankit05&show_icons=true&theme=tokyonight&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagatankit05&layout=compact&theme=tokyonight" height="150"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bhagatankit05&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bhagatankit05&show_icons=true&theme=tokyonight&count_private=true" height="150"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bhagatankit05&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=bhagatankit05&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
-### 🌍 Industry Relevance  
+### 🌍 Industry Relevance
 💡 Skilled in **building scalable web applications** with modern **MERN stack**.  
 ☁️ Experienced in **Cloud Deployment** (Firebase, Vercel, Netlify).  
 🤖 Exploring **AI + MERN integration** for next-gen web platforms.  
@@ -65,7 +64,7 @@
 
 ---
 
-### 📢 Connect & Collaborate  
+### 📢 Connect & Collaborate
 - **Portfolio**: [ankit-bhagat-portfolio](https://ankit-bhagat-portfolio-0583.web.app)  
 - **LinkedIn**: [linkedin.com/in/ankit-bhagat-22148b256](https://linkedin.com/in/ankit-bhagat-22148b256/)  
 - **Twitter (X)**: [@AnkitBhagat0583](https://twitter.com/AnkitBhagat0583)  
