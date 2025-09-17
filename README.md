@@ -29,6 +29,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
@@ -49,8 +50,13 @@
 
 ### 📊 GitHub Insights
 <p align="center">
+  <!-- Overall Stats -->
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bhagatankit05&show_icons=true&theme=tokyonight&count_private=true" height="150"/>
+  
+  <!-- Top Languages -->
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bhagatankit05&layout=compact&theme=tokyonight" height="150"/>
+  
+  <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com?user=bhagatankit05&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
