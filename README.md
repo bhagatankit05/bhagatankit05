@@ -4,7 +4,7 @@
 </h1>  
 
 <h3 align="center">  
-  Fullstack Developer (MERN) | AI Enthusiast | Cloud Explorer  
+  🚀 Fullstack Developer (MERN) | 🤖 AI Enthusiast | ☁️ Cloud Explorer  
 </h3>  
 
 ---
@@ -65,5 +65,5 @@
 
 ## 🐍 Contribution Graph  
 <p align="center">  
-  <img src="https://raw.githubusercontent.com/bhagatankit05/bhagatankit05/output/github-contribution-grid-snake.svg" alt="snake animation"/>  
+  <img src="https://github.com/bhagatankit05/bhagatankit05/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>  
 </p>  
