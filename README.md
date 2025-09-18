@@ -34,8 +34,8 @@
 
 ## 📊 GitHub Stats  
 <p align="center">  
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bhagatankit05&show_icons=true&theme=tokyonight&count_private=true" height="160"/>  
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bhagatankit05&layout=compact&theme=tokyonight" height="160"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=bhagatankit05&show_icons=true&theme=tokyonight&count_private=true" height="160"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagatankit05&layout=compact&theme=tokyonight" height="160"/>  
 </p>  
 
 <p align="center">  
@@ -65,5 +65,5 @@
 
 ## 🐍 Contribution Graph  
 <p align="center">  
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>  
-</p>
+  <img src="https://raw.githubusercontent.com/bhagatankit05/bhagatankit05/output/github-contribution-grid-snake.svg" alt="snake animation"/>  
+</p>  
