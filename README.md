@@ -4,7 +4,7 @@
 </h1>  
 
 <h3 align="center">  
-  Fullstack Developer (MERN) | AI Enthusiast | Cloud Explorer  
+  Fullstack Developer (MERN)  
 </h3>  
 
 ---
