@@ -33,9 +33,9 @@
 
 | 🚀 Project | 🔍 Description | 🧠 Tech Used |
 |-------------|----------------|--------------|
-| **Excel Analysis Platform** | Automates data workflows with insights & visualizations | React, Node.js, MongoDB |
-| **Blogging Platform** | Markdown-based blogging app with authentication & live comments | MERN Stack, Firebase |
-| **GyaanSetu (LMS)** | Full-stack learning management system with tracking & analytics | MERN, Chart.js |
+| **Excel Analysis Platform** | Automates data workflows with insights & visualizations | React, Node.js, MongoDB,  Chart.js |
+| **Blogging Platform** | Markdown-based blogging app with authentication & live comments | MERN |
+| **GyaanSetu (LMS)** | Full-stack learning management system with tracking & analytics | MERN |
 | **OneClickAI** | AI-powered hub for image generation, resume analyzer & article creation | PERN Stack, OpenAI API |
 
 ---
